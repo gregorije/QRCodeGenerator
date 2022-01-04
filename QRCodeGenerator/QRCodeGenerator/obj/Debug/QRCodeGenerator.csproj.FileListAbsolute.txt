@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\QRCodeGenerator\QRCodeGenerator\obj\Debug\QRCodeGenerator.csprojAssemblyReference.cache
+C:\Users\user\source\repos\QRCodeGenerator\QRCodeGenerator\obj\Debug\QRCodeGenerator.Form1.resources
+C:\Users\user\source\repos\QRCodeGenerator\QRCodeGenerator\obj\Debug\QRCodeGenerator.Properties.Resources.resources
+C:\Users\user\source\repos\QRCodeGenerator\QRCodeGenerator\obj\Debug\QRCodeGenerator.csproj.GenerateResource.cache
+C:\Users\user\source\repos\QRCodeGenerator\QRCodeGenerator\obj\Debug\QRCodeGenerator.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\QRCodeGenerator\QRCodeGenerator\bin\Debug\QRCodeGenerator.exe.config
+C:\Users\user\source\repos\QRCodeGenerator\QRCodeGenerator\bin\Debug\QRCodeGenerator.exe
+C:\Users\user\source\repos\QRCodeGenerator\QRCodeGenerator\bin\Debug\QRCodeGenerator.pdb
+C:\Users\user\source\repos\QRCodeGenerator\QRCodeGenerator\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\user\source\repos\QRCodeGenerator\QRCodeGenerator\obj\Debug\QRCodeGenerator.csproj.CopyComplete
+C:\Users\user\source\repos\QRCodeGenerator\QRCodeGenerator\obj\Debug\QRCodeGenerator.exe
+C:\Users\user\source\repos\QRCodeGenerator\QRCodeGenerator\obj\Debug\QRCodeGenerator.pdb
+C:\Users\user\source\repos\QRCodeGenerator\QRCodeGenerator\bin\Debug\QRCoder.dll
